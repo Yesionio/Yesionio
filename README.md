@@ -1,6 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yesionio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesionio)](https://github.com/anuraghazra/github-readme-stats)
 > I am a developer.
 
 <!--
